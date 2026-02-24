@@ -17,3 +17,6 @@ python-dotenv
 langchain-openai
 langchain-groq
 langchain-core
+fastapi
+uvicorn
+langserve[ALL]
